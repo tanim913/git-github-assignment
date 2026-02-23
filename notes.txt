@@ -1,0 +1,8 @@
+Git & GitHub Notes
+==================
+
+1. Always write clear commit messages that explain WHY a change was made.
+2. Use branches for new features — never work directly on main.
+3. Pull Requests allow team members to review code before merging.
+4. After merging a PR, always pull the latest changes to your local main branch.
+5. Use .gitignore to keep unnecessary files out of version control.
